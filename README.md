@@ -7,4 +7,4 @@ https://github.com/krzysztoframs/JPhysicsLib/tree/master
 # 依赖
 LibGDX
 
-MIT.md
+[MIT.md](https://github.com/CuteTiaLu/TiaLU-2D/blob/main/MIT.md)
